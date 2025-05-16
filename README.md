@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @intelligencecore
-- 🌱 I’m currently learning Swift🍏 and C++. (My priority is Swift right now.)
+- 🌱 I’m currently learning Swift🍏 and C++.
 - 💞️ I’m looking to collaborate on projects on C++ and Swift. 
-- 😄 Pronouns: While Loop
-- ⚡ Fun fact: I speak several Human languages😎
+- 😄 Pronouns: try!
 
 
 <!---
